@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" href="{{ "/images/favicon.png" | absolute_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+        {% if site.logo %}
+          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+        {% endif %}
+        <p>The 15th International <wbr> Modelica Conference <br> Place, Date, 2023</p>
+        <p>
+        <a href="{{ "/call2023.html" | absolute_url }}">[Call for Papers]</a>
+        </p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <!--
+        <h4>Gold sponsors</h4>
+        <p>
+          <div style="margin:auto;width:360px;">
+          </div>
+        </p>
+        <h4>Silver sponsors</h4>
+        <p>
+          <div style="margin:auto;width:360px;">
+          </div>
+        </p>
+        -->
+        <h4>Organized by</h4>
+        <p>
+          <div style="margin:auto;width:360px;">
+            <a style="border-bottom: 0px solid #ccc;" href="https://modelica.org"><img style="padding:5px;height:40px;width:auto;" src="/images/ModelicaLogo.svg" alt="Modelica Association" /></a>
+          </div>
+        </p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
