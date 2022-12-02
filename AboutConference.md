@@ -6,7 +6,7 @@ The program will cover modeling of complex physical and cyber-physical systems, 
 In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.
 The previous Modelica conference in 2019 in Regensburg, Germany, was attended by more than 400 participants from all over the world, and we would like to welcome even more participants to this conference.
 
-We are looking forward to seeing you.
+We are looking forward to seeing you in Aachen.
 
 
 ## Scope of the Conference
