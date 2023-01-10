@@ -54,6 +54,9 @@ More information coming soon
 
 The conference is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association).
 
+### For general questions, please send an email to:
+mc15@eonerc.rwth-aachen.de
+
 ### Conference board:
 
 - Prof. Dirk Müller, RWTH Aachen University
@@ -65,3 +68,4 @@ The conference is organized by [The institute for Energy Efficient Buildings and
 - Prof. Antonello Monti, RWTH Aachen University
 - Prof. Andrea Benigni, RWTH Aachen University
 - Dominik Hering, RWTH Aachen University
+
