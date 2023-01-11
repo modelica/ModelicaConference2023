@@ -50,6 +50,10 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 More information coming soon
 
+# Call for paper
+
+More information coming soon
+
 # Organization and Contact
 
 The conference is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association).
