@@ -2,16 +2,7 @@
 
 ## Submission process
 
-Papers should be submitted via the [EasyChair]() conference management system.
-
-There you can also read your reviews and hand in the final paper after the reviewing process has taken place. In order to submit a paper, you need to have an EasyChair account. Simply follow the provided instructions to create an account. The same account can be used for several conferences over several years, so if you have already participated in a Modelica conference you might already have a valid account.
-
-Once you have logged in, you can upload your contribution in the section: "New submissions". Simply follow the instructions.
-
-The paper submission form includes the option to mark suitable topics for your paper.
-Please use this feature since it helps us to find suitable reviewers for your paper.
-Furthermore, there is the option to attach a .zip file to your paper.
-In this way, you can provide example models that correspond to your paper.
+Information about the submission process is following soon.
 
 ## Preparation of full papers
 
@@ -27,7 +18,7 @@ For the final submission, there will also be the possibility to submit Modelica 
 
 ## Final Paper Submission
 
-Additionally to your paper, you should also submit a [copyright agreement](Documents/Modelica2021_copyright_form.pdf) that gives the Modelica Association the non-exclusive right to publish your paper. Please sign the form and upload it in [EasyChair]() together with the final paper version.
+Additionally to your paper, you should also submit a [copyright agreement](Modelica2023_copyright_form.pdf.md) that gives the Modelica Association the non-exclusive right to publish your paper. Please sign the form and upload it in [EasyChair]() together with the final paper version.
  
 We appreciate if you upload a one-page abstract, too.
 Use the same template as for the paper, but cut it down to a teaser for attendees.

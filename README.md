@@ -52,7 +52,7 @@ More information coming soon
 
 # Call for paper
 
-More information coming soon
+You find all information about the [call for paper](call2023)
 
 # Organization and Contact
 
