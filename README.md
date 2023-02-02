@@ -22,6 +22,7 @@ Development in the Modelica Association is organized in [Modelica Association Pr
 - FMI - Functional Mockup Interface
 - SSP - System Structure and Parameterization of Components for Virtual System Design
 - DCP - Distributed Co-Simulation Protocol
+- eFMI - Functional Mock-up Interfaces for embedded systems
 
 The projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
