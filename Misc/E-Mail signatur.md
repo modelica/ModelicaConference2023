@@ -1,0 +1,2 @@
+![[ConferenceLogo_Mail.png]]
+Save the date for the [15th international Modelica Conference](https://2023.international.conference.modelica.org/), which is organized in cooperation with the Modelica Assiciation in Aachen on October 9-11.
