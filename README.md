@@ -49,11 +49,11 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 # Registration
 
-More information coming soon
+Here you can find all information about the [conference registration](registration.html)
 
 # Call for paper
 
-You find all information about the [call for paper](call2023.md)
+Here you can find all information about the [call for paper](call2023.md).
 
 # Organization and Contact
 
