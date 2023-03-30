@@ -5,6 +5,7 @@
 You can register at the conference on the conference tool. This tool will be enabled soon.
 
 The Registration fees are:
+
 | Registration | Valid | incl. Dinner | Early | Late | 
 | --- | --- | --- | --- | --- |
 | Standard | Mon-Wed | yes | 700 EUR | 850 EUR |
