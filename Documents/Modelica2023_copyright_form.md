@@ -1,1 +1,0 @@
-Information is following soon.

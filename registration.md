@@ -7,11 +7,11 @@ You can register at the conference on the conference tool. This tool will be ena
 The Registration fees are:
 | Registration | Valid | incl. Dinner | Early | Late | 
 | --- | --- | --- | --- | --- |
-| Standard | Mon-Wed | yes | 700 € | 850 € |
-| PhD | Mon-Wed | no | 450 € | 550 € |
-| Student | Mon-Wed | no | 250 € | 300 € |
-| Industrial User Presentations | only Monday | no | 250 € |300 € |
-| Dinner | Dinner | --- | 70 € | 70 € |
+| Standard | Mon-Wed | yes | 700 EUR | 850 EUR |
+| PhD | Mon-Wed | no | 450 EUR | 550 EUR |
+| Student | Mon-Wed | no | 250 EUR | 300 EUR |
+| Industrial User Presentations | only Monday | no | 250 EUR |300 EUR |
+| Dinner | Dinner | yes | 70 EUR | 70 EUR |
 
 ## Hotels
 

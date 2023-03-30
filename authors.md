@@ -18,7 +18,7 @@ For the final submission, there will also be the possibility to submit Modelica 
 
 ## Final Paper Submission
 
-Additionally to your paper, you should also submit a [copyright agreement](Modelica2023_copyright_form.pdf) that gives the Modelica Association the non-exclusive right to publish your paper.
+Additionally to your paper, you should also submit a [copyright agreement](Documents/Modelica2023_copyright_form.pdf) that gives the Modelica Association the non-exclusive right to publish your paper.
  
 We appreciate if you upload a one-page abstract, too.
 Use the same template as for the paper, but cut it down to a teaser for attendees.
