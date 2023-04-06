@@ -63,13 +63,11 @@ mc15@eonerc.rwth-aachen.de
 
 ### Conference board:
 
-- Prof. Dirk Müller, RWTH Aachen University
-- Prof. Antonello Monti, RWTH Aachen University
-- Prof. Andrea Benigni, RWTH Aachen University
-
-### Local Organization
-- Prof. Dirk Müller, RWTH Aachen University
-- Prof. Antonello Monti, RWTH Aachen University
-- Prof. Andrea Benigni, RWTH Aachen University
-- Dominik Hering, RWTH Aachen University
+- Prof. Dirk Müller, RWTH Aachen University, Germany (Conference chair)
+- Prof. Antonello Monti, RWTH Aachen University, Germany
+- Prof. Andrea Benigni, RWTH Aachen University, Germany
+- Prof. Martin Otter, Deutsches Zentrum für Luft- und Raumfahrt, Germany
+- Prof. Francesco Casella, Politecnico di Milano, Italy
+- Assistant Prof. Martin Sjölund, Linköping University, Sweden
+- Dr. Michael Tiller, Realis Simulation, U.S.A.
 
