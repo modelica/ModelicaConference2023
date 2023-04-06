@@ -5,8 +5,7 @@ The **15th International Modelica Conference** is organized as an in-person even
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), and [DCP](https://dcp-standard.org/).
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
-In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.
-The previous Modelica conference in 2019 in Regensburg, Germany, was attended by more than 400 participants from all over the world, and we would like to welcome even more participants to this conference.
+In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. The previous Modelica conference in 2021 was held as an online conference hosted by the Linköping University, Sweden. The previous in-person Modelica conference in 2019 in Regensburg, Germany, was attended by more than 400 participants from all over the world, and we are looking forward welcoming interested participants to this years conference in Aachen.
 
 We are looking forward to seeing you in Aachen.
 
