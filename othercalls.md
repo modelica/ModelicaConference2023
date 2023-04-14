@@ -1,10 +1,10 @@
 ## Call for Vendor Presentations
 
-Do you want to inform the attendees about your new product? You can demonstrate your tools live and provide latest information on features. Since only a limited number of vendor presentations can be held, please contact us as soon as possible via mc15@eonerc.rwth-aachen.de, providing title, presenter(s), and an abstract of the presentation. The price is 200 €/ tutorial and free for open source tools.
+Do you want to inform the attendees about your new product? You can demonstrate your tools live and provide latest information on features. Since only a limited number of vendor presentations can be held, please contact us as soon as possible via mc15@eonerc.rwth-aachen.de, providing title, presenter(s), and an abstract of the presentation. The price is 500 €/ vendor presentation.
 
 Decision about the acceptance of vendor presentations will be based upon Modelica/FMI relation of content and on the time of application.
 
-All items are limited, based on first-come-first-served basis. Do not hesitate to contact us for any special needs. The deadline for application is **August 15th, 2021**.
+All items are limited, based on first-come-first-served basis. Do not hesitate to contact us for any special needs. The deadline for application is **August 15th, 2023**.
 
 ## Call for Tutorials
 
