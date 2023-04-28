@@ -2,7 +2,7 @@
 
 ## Conference
 
-You can register at the conference on the conference tool. This tool will be enabled soon.
+You can register at the conference on the [conference tool](https://www.conftool.com/modelica2023/) .
 
 The Registration fees are:
 
@@ -11,7 +11,7 @@ The Registration fees are:
 | Standard | Mon-Wed | yes | 700 EUR | 850 EUR |
 | PhD | Mon-Wed | no | 450 EUR | 550 EUR |
 | Student | Mon-Wed | no | 250 EUR | 300 EUR |
-| Industrial User Presentations | only Monday | no | 250 EUR |300 EUR |
+| Industrial User Presentations | only Tuesday | no | 250 EUR |300 EUR |
 | Dinner | Dinner | yes | 70 EUR | 70 EUR |
 
 ## Hotels

@@ -46,13 +46,28 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Modelica for teaching and education
 - FMI in Modelica and non-Modelica applications and tools
 
+# Preliminary Schedule
+
+The Modelica conference is a three day event, starting on Monday, October 9th until Wednesday October 11th. 
+| Date | |
+| --- | --- |
+|09.10.23|Tutorials, Workshops and Vendor sessions|
+|10.10.23|Parallel Sessions, FMI user meeting and industrial user presentations|
+|11.10.23|Parallel Sessions|
+
+ After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
+| Date | |
+| --- | --- |
+|12.10.23|Modelica design meeting|
+ 
+
 # Registration
 
-Here you can find all information about the [conference registration](registration.html)
+Here you can find all information about the [conference registration](registration.html).
 
 # Call for paper
 
-Here you can find all information about the [call for paper](call2023.md).
+Here you can find all information about the [call for paper](call2023.md). You can upload your paper using the [conference tool](https://www.conftool.com/modelica2023/) .
 
 # Organization and Contact
 

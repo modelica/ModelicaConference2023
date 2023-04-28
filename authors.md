@@ -16,13 +16,6 @@ Please make sure that your submission has been created according to the [Modelic
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy that the DOI points to).
 
-## Final Paper Submission
-
-Additionally to your paper, you should also submit a [copyright agreement](Documents/Modelica2023_copyright_form.pdf) that gives the Modelica Association the non-exclusive right to publish your paper.
- 
-We appreciate if you upload a one-page abstract, too.
-Use the same template as for the paper, but cut it down to a teaser for attendees.
-
 ## Technical equipment for presentations
 
 Papers must be presented during the conference in person. Papers that are not presented will be retracted.
