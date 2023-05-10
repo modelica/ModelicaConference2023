@@ -4,7 +4,7 @@
 
 You can register at the conference on the [conference tool](https://www.conftool.com/modelica2023/) .
 
-The early registration deadline is August 11^{th} and the Registration fees are:
+The early registration deadline is August 11th and the Registration fees are:
 
 | Registration | Valid | incl. Dinner | Early | Late | 
 | --- | --- | --- | --- | --- |
