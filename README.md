@@ -49,6 +49,7 @@ The Modelica conference will bring together people using Modelica and/or other M
 # Preliminary Schedule
 
 The Modelica conference is a three day event, starting on Monday, October 9th until Wednesday October 11th. 
+
 | Date | |
 | --- | --- |
 |09.10.23|Tutorials, Workshops and Vendor sessions|
@@ -56,6 +57,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 |11.10.23|Parallel Sessions|
 
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
+ 
 | Date | |
 | --- | --- |
 |12.10.23|Modelica design meeting|
