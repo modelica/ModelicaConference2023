@@ -16,8 +16,7 @@ The early registration deadline is August 11th and the Registration fees are:
 
 ## Hotels
 
-We have reserved a selection of rooms from Oct 8th to Oct. 11th. 
-Additionally, B&B Hotel Aachen-City and Ibis Marschiertor are further reserved until Oct. 12th for participants of the Modelica Design day on Oct. 12th,
+We have reserved a selection of rooms from Oct 8th to Oct. 11th. Additionally, B&B Hotel Aachen-City and Ibis Marschiertor are further reserved until Oct. 12th for participants of the Modelica Design day on Oct. 12th. This contingent is reserved until Mid of August.
 Benefit from these and special offers, [following this link](https://tportal.toubiz.de/aachenkongresse/messe/quicksearch/TUR00020110656855316?lang=en&reset=1). Please pay attention to the selected date. Select either a departure on Oct 11th, if you only attend the conference or a departure on Oct 12th, if you attend the Design day. This selection affects the available hotels.
 
 The list of available hotels are
