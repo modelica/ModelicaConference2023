@@ -50,17 +50,19 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 The Modelica conference is a three day event, starting on Monday, October 9th until Wednesday October 11th. 
 
-| Date | |
-| --- | --- |
-|09.10.23|Tutorials, Workshops and Vendor sessions|
-|10.10.23|Parallel Sessions, FMI user meeting and industrial user presentations|
-|11.10.23|Parallel Sessions|
+| Date | Program | Times |
+| --- | --- | --- |
+|09.10.23|Tutorials, Workshops and Vendor sessions| 1 p.m. - 7 p.m. |
+|10.10.23|Parallel Sessions, FMI user meeting and industrial user presentations| 9 a.m. - 6 p.m. |
+|11.10.23|Parallel Sessions| 9 a.m. - 2 p.m. |
+
 
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
  
-| Date | |
-| --- | --- |
-|12.10.23|Modelica design meeting|
+| Date | Program | Times |
+| --- | --- | --- |
+|12.10.23|Modelica design meeting| 9 a.m. - 4 p.m. |
+
  
 
 # Registration
@@ -83,9 +85,7 @@ Here you can find all information about the [call for paper](call2023.md). You c
 
 # Organization and Contact
 
-The conference is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association).
-
-### For general questions, please send an email to:
+The conference is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association). For general questions, please send an email to:
 mc15@eonerc.rwth-aachen.de
 
 ### Conference board:
