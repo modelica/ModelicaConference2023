@@ -54,7 +54,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 |10.10.23|Parallel Sessions, FMI user meeting and industrial user presentations, Exhibition| 9 a.m. - 6 p.m. |
 |11.10.23|Parallel Sessions, Exhibition| 9 a.m. - 2 p.m. |
 
-
+ You can find a more detailed overview of all sessions in the [sessions-overview](Sessions.html)
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
  
 | Date | Program | Times |
@@ -70,13 +70,14 @@ Here you can find all information about the [conference registration](registrati
 # Call for paper
 
 Here you can find all information about the [call for paper](call2023.md). You can upload your paper using the [conference tool](https://www.conftool.com/modelica2023/) . The timeline for paper submission is:
-<span style="color:red">We postponed the deadline for paper submission to June 12th.</span>
+<span style="color:red">We postponed the deadline for paper submission to June <s>12th</s> 14th.</span>
 
 | Date | |
 | --- | --- |
 |13.01.23|Call for Paper|
 |~~26.05.23~~|~~Deadline for submission~~|
-|12.06.23|Deadline for submission|
+|~~12.06.23~~|~~Deadline for submission~~|
+|14.06.23|Deadline for submission|
 |14.07.23|Notification of acceptance|
 |18.08.23|Submission of Final Papers|
 |9-11.10.23|Modelica Conference|
