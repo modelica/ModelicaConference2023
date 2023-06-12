@@ -1,4 +1,4 @@
-![[PortraitDZSquare.jpg]]
+<img src="images/Photos/PortraitDZSquare.jpg" alt="Dr. Dirk Zimmer">
 
 | | |
 |---|---|
