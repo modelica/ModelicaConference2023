@@ -61,13 +61,14 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
  
 | Date | Program | Times |
 | --- | --- | --- |
-|12.10.23|Modelica design meeting| 9 a.m. - 4 p.m. |
-
- 
+|12.10.23|Modelica design meeting and FMI design meeting| 9 a.m. - 4 p.m. |
+  
+The FMI design meeting meeting is open to guests and provides an opportunity to get in contact with the FMI Project, discuss ideas, feedback, requirements and new use cases for FMI.  
+If you plan to participate please write to [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
 
 # Registration
 
-Here you can find all information about the [conference registration](registration.html) and Hotel contingent. The early registration deadline is August 11th.
+Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The early registration deadline is August 11th**.
 
 # Call for paper
 
