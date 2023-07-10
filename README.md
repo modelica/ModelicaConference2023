@@ -50,7 +50,7 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 The Modelica conference is a three day event, starting on Monday, October 9th until Wednesday October 11th. 
 
-<table border="1px solid black", border-collapse="collapse">  
+<table>  
   <tr>  
     <th style="width:20%">Date</th>  
     <th style="width:60%">Program</th>  
@@ -78,9 +78,9 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 
 <table border="1px solid black", border-collapse="collapse">  
   <tr>  
-    <th style="width:20%">Date</th>  
-    <th style="width:60%">Program</th>  
-    <th style="width:20%">Times</th>  
+    <th>Date</th>  
+    <th>Program</th>  
+    <th>Times</th>  
   </tr>  
   <tr>  
     <td>12.10.23</td>  
