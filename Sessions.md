@@ -37,8 +37,8 @@
   </tr>  
   <tr>  
     <td>09:30 - 10:30</td> 
-    <td> <a href="KeynoteDZimmer.html">Keynote 1</a> </td> 
-  </tr>  
+    <td>Keynote 1 </td> 
+   </tr>  
   <tr>  
     <td>10:30 - 12:15</td> 
     <td>Session 1</td>
