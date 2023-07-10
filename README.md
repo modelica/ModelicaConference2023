@@ -50,18 +50,44 @@ The Modelica conference will bring together people using Modelica and/or other M
 
 The Modelica conference is a three day event, starting on Monday, October 9th until Wednesday October 11th. 
 
-| Date | Program | <div style="width:200px"> Times </div>  |
-| --- | --- | --- |
-|09.10.23|Tutorials, Workshops and Vendor sessions, Exhibition| 1 p.m. - 7 p.m. |
-|10.10.23|Parallel Sessions, FMI user meeting and industrial user presentations, Exhibition| 9 a.m. - 6 p.m. |
-|11.10.23|Parallel Sessions, Exhibition| 9 a.m. - 4 p.m. |
+<table border="1px solid black", border-collapse="collapse">  
+  <tr>  
+    <th style="width:20%">Date</th>  
+    <th style="width:60%">Program</th>  
+    <th style="width:20%">Times</th>  
+  </tr>  
+  <tr>  
+    <td>09.10.23</td>  
+    <td>Tutorials, Workshops and Vendor sessions, Exhibition</td>  
+    <td>1 p.m. - 7 p.m.</td>  
+  </tr>  
+  <tr>  
+    <td>10.10.23</td>  
+    <td>Parallel Sessions, FMI user meeting and industrial user presentations, Exhibition</td>  
+    <td>9 a.m. - 6 p.m.</td>  
+  </tr>  
+    <tr>  
+    <td>11.10.23</td>  
+    <td>Parallel Sessions, Exhibition</td>  
+    <td>9 a.m. - 4 p.m.</td>  
+  </tr> 
+</table>
 
  You can find a more detailed overview of all sessions in the [sessions-overview](Sessions.html)
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
- 
-| Date | Program | <div style="width:200px"> Times </div> |
-| --- | --- | --- |
-|12.10.23|Modelica design meeting and FMI design meeting| 9 a.m. - 4 p.m. |
+
+<table border="1px solid black", border-collapse="collapse">  
+  <tr>  
+    <th style="width:20%">Date</th>  
+    <th style="width:60%">Program</th>  
+    <th style="width:20%">Times</th>  
+  </tr>  
+  <tr>  
+    <td>12.10.23</td>  
+    <td>Modelica design meeting and FMI design meeting</td>  
+    <td>9 a.m. - 4 p.m.</td>  
+  </tr>  
+</table>
   
 The FMI design meeting meeting is open to guests and provides an opportunity to get in contact with the FMI Project, discuss ideas, feedback, requirements and new use cases for FMI.  
 If you plan to participate please write to [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
