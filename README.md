@@ -75,7 +75,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 
  You can find a more detailed overview of all sessions in the [sessions-overview](Sessions.html)
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
-
+ 
 <table>  
   <tr>  
     <th>Date</th>  
