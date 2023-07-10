@@ -53,8 +53,8 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 <table>  
   <tr>  
     <th style="width:20%">Date</th>  
-    <th style="width:60%">Program</th>  
-    <th style="width:20%">Times</th>  
+    <th style="width:50%">Program</th>  
+    <th style="width:30%">Times</th>  
   </tr>  
   <tr>  
     <td>09.10.23</td>  
@@ -76,16 +76,16 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
  You can find a more detailed overview of all sessions in the [sessions-overview](Sessions.html)
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
 
-<table border="1px solid black", border-collapse="collapse">  
+<table>  
   <tr>  
     <th>Date</th>  
     <th>Program</th>  
     <th>Times</th>  
   </tr>  
   <tr>  
-    <td>12.10.23</td>  
-    <td>Modelica design meeting and FMI design meeting</td>  
-    <td>9 a.m. - 4 p.m.</td>  
+    <td style="width:20%">12.10.23</td>  
+    <td style="width:50%">Modelica design meeting and FMI design meeting</td>  
+    <td style="width:30%">9 a.m. - 4 p.m.</td>  
   </tr>  
 </table>
   
