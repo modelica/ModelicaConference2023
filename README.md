@@ -98,14 +98,16 @@ Here you can find all information about the [conference registration](registrati
 
 # Call for paper
 
-Here you can find all information about the [call for paper](call2023.md). You can upload your paper using the [conference tool](https://www.conftool.com/modelica2023/) . The timeline for paper submission is:
+Here you can find all information about the [call for paper](call2023.html). You can upload your paper using the [conference tool](https://www.conftool.com/modelica2023/) . The timeline for paper submission is:
 <span style="color:red">The paper submission is closed.</span>
+
+We would like to thank all reviewers, who contributed a total of 297 reviews and assured the scientific quality of this conference. You find the list of reviewers [here](reviewers.html).
 
 | Date | |
 | --- | --- |
 |~~13.01.23~~|~~Call for Paper~~|
 |~~14.06.23~~|~~Final deadline for submission~~|
-|21.07.23|Notification of acceptance|
+|~~21.07.23~~|~~Notification of acceptance~~|
 |18.08.23|Submission of Final Papers|
 |9-11.10.23|Modelica Conference|
 
