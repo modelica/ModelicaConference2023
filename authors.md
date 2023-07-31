@@ -19,3 +19,8 @@ For the final submission, there will also be the possibility to submit Modelica 
 ## Technical equipment for presentations
 
 Papers must be presented during the conference in person. Papers that are not presented will be retracted.
+
+## Poster Session
+
+Some papers are invited to present their paper with a poster instead of a presentation. These papers still need to submit a full paper. Additionally, a poster is presented at the conference. The poster is going to be placed at the beginning of the conference and will be present throughout the full conference duration. Furthermore, dedicated times are defined, where the authors should be next to their posters to allow for questions and answers and encourage discussion
+Please prepare and bring a DIN A0 Poster. There is no poster template. Please design the poster in a way that best suits the content of your paper.
