@@ -92,6 +92,15 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 The FMI design meeting meeting is open to guests and provides an opportunity to get in contact with the FMI Project, discuss ideas, feedback, requirements and new use cases for FMI.  
 If you plan to participate please write to [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
 
+## Conference Venue
+
+The conference will take place at the event location [Das Liebig](https://dasliebig.de/), Aachen.
+Das Liebig
+Liebigstrasse 19
+52070 Aachen
+
+Please find information about nearby hotels on the [conference registration](registration.html) site.
+
 # Registration
 
 Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The early registration deadline is August 11th**.
