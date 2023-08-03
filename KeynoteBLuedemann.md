@@ -1,4 +1,4 @@
-<img src="images/Photos/PortraitROM_Bruno_Luedemann_15.jpg" alt="Dr. Bruno Lüdemann">
+<img src="images/Photos/ROM_Bruno_Luedemann_15.jpg" alt="Dr. Bruno Lüdemann">
 
 | | |
 |---|---|
