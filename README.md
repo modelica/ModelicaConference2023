@@ -58,7 +58,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
   </tr>  
   <tr>  
     <td>09.10.23</td>  
-    <td>Tutorials, Workshops and Vendor sessions, Exhibition</td>  
+    <td>Tutorials, Workshops and Vendor Presentations, Exhibition</td>  
     <td>1 p.m. - 7 p.m.</td>  
   </tr>  
   <tr>  
