@@ -84,12 +84,12 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
   </tr>  
   <tr>  
     <td style="width:20%">12.10.23</td>  
-    <td style="width:50%">Modelica design meeting and FMI design meeting</td>  
-    <td style="width:30%">9 a.m. - 4 p.m.</td>  
+    <td style="width:50%">General Modelica Association, FMI and eFMI meetings</td>  
+    <td style="width:30%">8:30 a.m. - 12 a.m.</td>  
   </tr>  
 </table>
   
-The FMI design meeting meeting is open to guests and provides an opportunity to get in contact with the FMI Project, discuss ideas, feedback, requirements and new use cases for FMI.  
+The Modelica Association, MAP FMI and MAP eFMI meetings are open to guests and provide an opportunity to get in contact with the Modelica Association and its projects and publicly discuss ideas, feedback, requirements and new use cases. 
 If you plan to participate please write to [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
 
 ## Conference Venue
