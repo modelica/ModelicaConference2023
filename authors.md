@@ -18,7 +18,7 @@ For the final submission, there will also be the possibility to submit Modelica 
 
 ## Technical equipment for presentations
 
-Papers must be presented during the conference in person. Papers that are not presented will be retracted.
+Papers must be presented during the conference in person. Papers that are not presented will be retracted. All presentations are 20 minutes long with an additional 5 minutes for questions.
 
 ## Poster Session
 
