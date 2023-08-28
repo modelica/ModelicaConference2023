@@ -2,6 +2,8 @@
 
 The **15th International Modelica Conference** is organized as an in-person event, held in the city of Aachen, Germany from **October 9-11, 2023**. It is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association).
 
+You can find a **preliminary** schedule on the [conftool website](https://www.conftool.com/modelica2023/sessions.php).
+
 # About the Conference
 
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), and [DCP](https://dcp-standard.org/).
