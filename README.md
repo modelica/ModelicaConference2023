@@ -119,7 +119,7 @@ We would like to thank all reviewers, who contributed a total of 297 reviews and
 |~~13.01.23~~|~~Call for Paper~~|
 |~~14.06.23~~|~~Final deadline for submission~~|
 |~~21.07.23~~|~~Notification of acceptance~~|
-|18.08.23|Submission of Final Papers|
+|~~18.08.23~~|~~Submission of Final Papers~~|
 |9-11.10.23|Modelica Conference|
 
 # Organization and Contact
