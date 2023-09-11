@@ -2,7 +2,7 @@
 
 The **15th International Modelica Conference** is organized as an in-person event, held in the city of Aachen, Germany from **October 9-11, 2023**. It is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association).
 
-You can find a **preliminary** schedule on the [conftool website](https://www.conftool.com/modelica2023/sessions.php).
+You can find the schedule on the [conftool website](https://www.conftool.com/modelica2023/sessions.php).
 
 # About the Conference
 
@@ -75,7 +75,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
   </tr> 
 </table>
 
- You can find a more detailed overview of all sessions in the [sessions-overview](Sessions.html)
+ You can find a more detailed overview of all sessions on the [conftool website](https://www.conftool.com/modelica2023/sessions.php).
  After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
  
 <table>  
@@ -92,7 +92,16 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 </table>
   
 The Modelica Association, MAP FMI and MAP eFMI meetings are open to guests and provide an opportunity to get in contact with the Modelica Association and its projects and publicly discuss ideas, feedback, requirements and new use cases. 
-If you plan to participate please write to [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
+If you plan to participate please write to:
+- FMI meeting: [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
+- eFMI meeting:
+	- [efmi-info@googlegroups.com](mailto:efmi-info@googlegroups.com) (public mailing list, others can see your application/interest)
+	- [Christoff.Buerger@3ds.com](mailto:Christoff.Buerger@3ds.com) (private e-mail address of MAP eFMI project leader, if you do not want your mail in public space)
+- MAP-Lang:
+	- [modelica-design@googlegroups.com](mailto:modelica-design@googlegroups.com) (public mailing list, others can see your application/interest)
+	- [Hans.Olsson@3ds.com](mailto:Hans.Olsson@3ds.com) (private e-mail address of MAP-Lang project leader, if you do not want your mail in public space).  
+
+If you send Questions in advance we will be better prepared to discuss them.
 
 ## Conference Venue
 
