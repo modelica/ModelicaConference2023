@@ -99,7 +99,8 @@ If you plan to participate please write to:
 	- [Christoff.Buerger@3ds.com](mailto:Christoff.Buerger@3ds.com) (private e-mail address of MAP eFMI project leader, if you do not want your mail in public space)
 - MAP-Lang:
 	- [modelica-design@googlegroups.com](mailto:modelica-design@googlegroups.com) (public mailing list, others can see your application/interest)
-	- [Hans.Olsson@3ds.com](mailto:Hans.Olsson@3ds.com) (private e-mail address of MAP-Lang project leader, if you do not want your mail in public space).  
+	- [Hans.Olsson@3ds.com](mailto:Hans.Olsson@3ds.com) (private e-mail address of MAP-Lang project leader, if you do not want your mail in public space). 
+- Other meetings: [backoffice@modelica.org](mailto:backoffice@modelica.org)
 
 If you send Questions in advance we will be better prepared to discuss them.
 
