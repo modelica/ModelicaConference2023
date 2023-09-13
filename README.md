@@ -76,21 +76,17 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 </table>
 
  You can find a more detailed overview of all sessions on the [conftool website](https://www.conftool.com/modelica2023/sessions.php).
- After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen.
- 
-<table>  
-  <tr>  
-    <th>Date</th>  
-    <th>Program</th>  
-    <th>Times</th>  
-  </tr>  
-  <tr>  
-    <td style="width:20%">12.10.23</td>  
-    <td style="width:50%">General Modelica Association, FMI, eFMI, IBPSA and BOBTEST meetings</td>  
-    <td style="width:30%">8:30 a.m. - 12 a.m.</td>  
-  </tr>  
-</table>
-  
+ After the conference, on thursday, October 12th, the Modelica design meeting takes place in Aachen. This meeting is not part of the conference.
+
+|Time|Program|
+|---|---|
+|08:30 - 09:30| General MA Q&A|
+|08:30 - 11:30| BOBPTEST Project 2 |
+|09:30 - 12:00| FMI & eFMI Meeting |
+|09:30 - 12:00| Lang & Lib Meeting |
+|12:00| Lunch |
+|13:30 - 16:00| IBPSA Working Group Meeting |
+
 The Modelica Association, MAP FMI and MAP eFMI meetings are open to guests and provide an opportunity to get in contact with the Modelica Association and its projects and publicly discuss ideas, feedback, requirements and new use cases. 
 If you plan to participate please write to:
 - FMI meeting: [contact@fmi-standard.org](mailto:contact@fmi-standard.org).
