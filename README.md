@@ -86,7 +86,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
   </tr>  
   <tr>  
     <td style="width:20%">12.10.23</td>  
-    <td style="width:50%">General Modelica Association, FMI and eFMI meetings</td>  
+    <td style="width:50%">General Modelica Association, FMI, eFMI, IBPSA and BOBTEST meetings</td>  
     <td style="width:30%">8:30 a.m. - 12 a.m.</td>  
   </tr>  
 </table>
@@ -99,7 +99,8 @@ If you plan to participate please write to:
 	- [Christoff.Buerger@3ds.com](mailto:Christoff.Buerger@3ds.com) (private e-mail address of MAP eFMI project leader, if you do not want your mail in public space)
 - MAP-Lang:
 	- [modelica-design@googlegroups.com](mailto:modelica-design@googlegroups.com) (public mailing list, others can see your application/interest)
-	- [Hans.Olsson@3ds.com](mailto:Hans.Olsson@3ds.com) (private e-mail address of MAP-Lang project leader, if you do not want your mail in public space). 
+	- [Hans.Olsson@3ds.com](mailto:Hans.Olsson@3ds.com) (private e-mail address of MAP-Lang project leader, if you do not want your mail in public space).
+- IBPSA or BOBTEST: [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSehQX6NIslTMKLQdqrK6xlCokNOhpZxUSJ85xc79nb-I7VPLw/viewform?usp=sf_link) (open until September 30th)
 - Other meetings: [backoffice@modelica.org](mailto:backoffice@modelica.org)
 
 If you send Questions in advance we will be better prepared to discuss them.

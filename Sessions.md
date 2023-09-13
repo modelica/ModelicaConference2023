@@ -8,7 +8,8 @@ On Thursday, a follow-up Modelica Association-meeting is planned after the confe
 |Time|Program|
 |---|---|
 |08:30 - 09:30| General MA Q&A|
-|09:30 - 11:30| IBPSA Workshop |
-|09:30 - 12:00|FMI & eFMI Meeting|
+|09:30 - 11:30| BOBPTEST Project 2 |
+|09:30 - 12:00| FMI & eFMI Meeting |
 |09:30 - 12:00| Optional: Lang & Lib Meeting |
 |12:00| Lunch |
+|13:30 - 16:00| IBPSA Working Group Meeting |
