@@ -35,7 +35,7 @@ The Modelica conference is a three day event, starting on Monday, October 9th un
 |Time|Program|
 |---|---|
 |08:30 - 09:30| General MA Q&A|
-|08:30 - 11:30| BOBPTEST Project 2 |
+|08:30 - 11:30| IBPSA Project 2: BOPTEST |
 |09:30 - 12:00| FMI & eFMI Meeting |
 |09:30 - 12:00| Lang & Lib Meeting |
 |12:00| Lunch |
