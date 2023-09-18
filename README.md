@@ -2,7 +2,11 @@
 
 The **15th International Modelica Conference** is organized as an in-person event, held in the city of Aachen, Germany from **October 9-11, 2023**. It is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association).
 
-# Preliminary Schedule
+# Registration
+
+Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The  registration deadline is September 29th**. If you want to register after this event, please contact us via Mail mc15@eonerc.rwth-aachen.de 
+
+# Schedule
 
 The Modelica conference is a three day event, starting on Monday, October 9th until Wednesday October 11th. 
 
@@ -107,24 +111,12 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Modelica for teaching and education
 - FMI in Modelica and non-Modelica applications and tools
 
-# Registration
-
-Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The early registration deadline is August 11th**.
-
 # Call for paper
 
 Here you can find all information about the [call for paper](call2023.html). You can upload your paper using the [conference tool](https://www.conftool.com/modelica2023/) . The timeline for paper submission is:
 <span style="color:red">The paper submission is closed.</span>
 
 We would like to thank all reviewers, who contributed a total of 297 reviews and assured the scientific quality of this conference. You find the list of reviewers [here](reviewers.html).
-
-| Date | |
-| --- | --- |
-|~~13.01.23~~|~~Call for Paper~~|
-|~~14.06.23~~|~~Final deadline for submission~~|
-|~~21.07.23~~|~~Notification of acceptance~~|
-|~~18.08.23~~|~~Submission of Final Papers~~|
-|9-11.10.23|Modelica Conference|
 
 # Organization and Contact
 
