@@ -4,7 +4,7 @@ The **15th International Modelica Conference** is organized as an in-person even
 
 # Registration
 
-Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The  registration deadline is September 29th**. If you want to register after this deadline, please contact us via Mail mc15@eonerc.rwth-aachen.de. It is also going to be possible to register on-site.
+Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The  registration deadline is September 29th**. If you want to register after this deadline, please contact us via Mail <a href="mailto:mc15@eonerc.rwth-aachen.de">mc15@eonerc.rwth-aachen.de</a>. It is also going to be possible to register on-site.
 
 # Schedule
 
@@ -121,7 +121,7 @@ We would like to thank all reviewers, who contributed a total of 297 reviews and
 # Organization and Contact
 
 The conference is organized by [The institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/~dmzz/E-ON-ERC-EBC/?lidx=1), in cooperation with the [Modelica Association](https://modelica.org/association). For general questions, please send an email to:
-mc15@eonerc.rwth-aachen.de
+<a href="mailto:mc15@eonerc.rwth-aachen.de">mc15@eonerc.rwth-aachen.de</a>
 
 ### Conference board:
 
