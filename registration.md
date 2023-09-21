@@ -4,7 +4,7 @@
 
 You can register at the conference on the [conference tool](https://www.conftool.com/modelica2023/) .
 
-The registration deadline is September 29th and the Registration fees are:
+**The  registration deadline is September 29th**. If you want to register after this deadline, please contact us via Mail mc15@eonerc.rwth-aachen.de. It is also going to be possible to register on-site and the Registration fees are:
 
 | Registration | Valid | incl. Dinner | Early | Late | 
 | --- | --- | --- | --- | --- |

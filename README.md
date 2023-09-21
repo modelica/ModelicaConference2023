@@ -4,7 +4,7 @@ The **15th International Modelica Conference** is organized as an in-person even
 
 # Registration
 
-Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The  registration deadline is September 29th**. If you want to register after this event, please contact us via Mail mc15@eonerc.rwth-aachen.de 
+Here you can find all information about the [conference registration](registration.html) and Hotel contingent. **The  registration deadline is September 29th**. If you want to register after this deadline, please contact us via Mail mc15@eonerc.rwth-aachen.de. It is also going to be possible to register on-site.
 
 # Schedule
 
