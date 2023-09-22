@@ -66,10 +66,13 @@ Das Liebig
 Liebigstrasse 19
 52070 Aachen
 
-Das Liebig and Charles are the main conference locations where  all tutorials, vendor presentations and paper sessions take place. 
-Lunch and dinner will be in Halle 60.DIRECTIONS - BY PUBLIC TRANSPORTATION. There are two bus stops close to the conference location with the following lines:  
+Das Liebig and Charles are the main conference locations where  all tutorials, vendor presentations and paper sessions take place. Lunch and dinner will be in Halle 60.
+##### DIRECTIONS - BY PUBLIC TRANSPORTATION
+There are two bus stops close to the conference location with the following lines:  
 Lukasstraße (4 minute walk): 34  
-Liebigstraße (9 minute walk): 1,11,21,31,41,52, 70, 220, SB20DIRECTIONS - BY CAR & BIKE. There are several free car and bike parking spots available.
+Liebigstraße (9 minute walk): 1,11,21,31,41,52, 70, 220, SB20
+##### DIRECTIONS - BY CAR & BIKE
+There are several free car and bike parking spots available.
 
 <img src="images/venue.png" alt="Venue Information">
 
