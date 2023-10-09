@@ -3,5 +3,5 @@ In the meantime, you can access all pre-prints directly in the [conference sched
 
 Downloads:
 <a href="/Documents/Book_of_Abstracts.pdf" download="Book_of_Abstracts">  
-  Book of Abstracts
+  Book of Abstracts 
 </a>
