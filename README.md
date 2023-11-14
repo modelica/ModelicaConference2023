@@ -5,6 +5,8 @@ The **15th International Modelica Conference** was organized as an in-person eve
 We were happy having you here in Aachen. You can revisit highlights of the conference in this online [photo-collection](https://kunden.braun-foto.com/modelica23)
 Photos are licensed under Modelica 2023 © 2023 by Martin Braun is licensed under Attribution-NonCommercial-NoDerivs 4.0 International ([https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
+Please find the conference proceedings, Modelica news and Keynote slides [here.](proceedings.html)
+
 ### Conference board:
 
 - Prof. Dirk Müller, RWTH Aachen University, Germany (Conference chair)

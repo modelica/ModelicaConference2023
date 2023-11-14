@@ -7,3 +7,5 @@ Downloads:
 
 [Modelica News](Documents/MA-News_Modelica2023.pdf)
 
+[Keynote Slides Dr. Zimmer](Documents/keynoteZimmer.pdf)
+
