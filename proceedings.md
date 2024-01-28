@@ -1,7 +1,10 @@
-Here, the conference proceedings will be uploaded.
-In the meantime, you can access all pre-prints directly in the [conference schedule](https://www.conftool.com/modelica2023/sessions.php).
+The conference proceedings have been published by Linköping University Press:
 
-Downloads:
+https://doi.org/10.3384/ecp204
+
+This is one pdf-file with all papers. Individual pdf-files for every paper will be provided in the near future.
+
+Other information:
 
 [Book of Abstracts](Documents/Book_of_Abstracts.pdf)
 
@@ -9,4 +12,6 @@ Downloads:
 
 [Keynote Slides Dr. Zimmer](Documents/keynoteZimmer.pdf)
 - Please note that these slides describe a work in progress. A final version will be published in the future.
+
+[Conference schedule and pre-prints](https://www.conftool.com/modelica2023/sessions.php)
 
